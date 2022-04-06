@@ -154,16 +154,16 @@ body {
 .header {
   width: 100%;
   min-height: 5em;
-  background: lightblue;
-
   padding: 1em 2em;
-
   display: flex;
   flex-flow: row wrap;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
+  color: var(--blanco-2);
+  font-size:x-large;
+  font-style: var(--tipo-principal);
 
-  display: none;
+  
 }
 
 
