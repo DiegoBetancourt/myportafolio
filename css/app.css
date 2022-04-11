@@ -250,7 +250,7 @@ select {
 
 .seccion .article {
   width: 100%;
-  min-height: 20vh;
+  min-height: 10vh;
   background: lightgoldenrodyellow;
 
   display: flex;
@@ -411,6 +411,10 @@ select {
 
   body{
     padding-top: -20px;
+  }
+
+  #cursor{
+    display: none;
   }
 
   .header{
